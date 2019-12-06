@@ -21,4 +21,10 @@ describe("rwafaker", async () => {
       expect(email).to.be.a("string");
     });
   });
+  describe("generate full name", () => {
+    it("should return a random fullname", function() {
+      const full_name = rwafaker.fullName();
+      expect(full_name).to.be.a("string");
+    });
+  });
 });
