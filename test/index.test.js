@@ -9,4 +9,10 @@ describe("rwafaker", () => {
       expect(name).to.be.a("string");
     });
   });
+  describe("generate random last name", () => {
+    it("should return a random last name", function() {
+      const name = rwafaker.lastName();
+      expect(name).to.be.a("string");
+    });
+  });
 });
