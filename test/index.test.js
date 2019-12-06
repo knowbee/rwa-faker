@@ -15,4 +15,10 @@ describe("rwafaker", async () => {
       expect(name).to.be.a("string");
     });
   });
+  describe("generate random email", () => {
+    it("should return a random email", function() {
+      const email = rwafaker.email();
+      expect(email).to.be.a("string");
+    });
+  });
 });
