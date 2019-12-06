@@ -1,5 +1,15 @@
 # rwa-faker
 
+[![Build Status](https://travis-ci.org/knowbee/rwa-faker.svg?branch=master)](https://travis-ci.org/knowbee/rwa-faker)
+[![Maintainability](https://api.codeclimate.com/v1/badges/3f5c5282ff06934496dd/maintainability)](https://codeclimate.com/github/knowbee/rwa-faker/maintainability)
+[![npm](https://img.shields.io/npm/dt/rwa-faker.svg)](https://www.npmjs.com/package/rwa-faker)
+[![Dependency Status](https://david-dm.org/knowbee/rwa-faker.svg)](https://david-dm.org/knowbee/rwa-faker)
+[![npm](https://img.shields.io/npm/v/rwa-faker.svg)](https://www.npmjs.com/package/rwa-faker)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+[![NPM](https://nodei.co/npm/rwa-faker.png)](https://nodei.co/npm/rwa-faker/)
+
 generate massive amounts of realistic fake data in Rwanda native language (Ikinyarwanda)
 
 ## Installation
