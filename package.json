@@ -1,6 +1,6 @@
 {
   "name": "rwa-faker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "description": "This package generates massive amounts of realistic fake data in Rwanda native language (Ikinyarwanda)",
   "repository": "https://github.com/knowbee/rwa-faker.git",
