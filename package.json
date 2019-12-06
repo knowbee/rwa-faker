@@ -1,0 +1,17 @@
+{
+  "name": "rwa-faker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/knowbee/rwa-faker.git",
+  "author": "Igwaneza Bruce <knowbeeinc@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "coveralls": "3.0.9",
+    "eslint": ">=6.7.2",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-plugin-import": "2.18.2",
+    "mocha": "^6.2.2",
+    "nyc": "^14.1.1"
+  }
+}
