@@ -2,6 +2,7 @@
   "name": "rwa-faker",
   "version": "1.0.4",
   "main": "index.js",
+  "description": "This package generates massive amounts of realistic fake data in Rwanda native language (Ikinyarwanda)",
   "repository": "https://github.com/knowbee/rwa-faker.git",
   "author": "Igwaneza Bruce <knowbeeinc@gmail.com>",
   "license": "MIT",
