@@ -2,7 +2,7 @@ const chai = require("chai");
 const { rwafaker } = require("../index");
 const expect = chai.expect;
 
-describe("rwafaker", () => {
+describe("rwafaker", async () => {
   describe("generate random first name", () => {
     it("should return a random first name", function() {
       const name = rwafaker.firstName();
