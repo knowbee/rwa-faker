@@ -10,7 +10,7 @@
 
 [![NPM](https://nodei.co/npm/rwa-faker.png)](https://nodei.co/npm/rwa-faker/)
 
-generate massive amounts of realistic fake data in Rwanda native language (Ikinyarwanda)
+This is a simple npm package that generates massive amounts of realistic fake data in Rwanda native language (Ikinyarwanda)
 
 ## Installation
 
