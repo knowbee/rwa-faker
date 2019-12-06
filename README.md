@@ -1,6 +1,6 @@
 # rwa-faker
 
-generate massive amounts of realistic fake data in kinyarwanda
+generate massive amounts of realistic fake data in Rwanda native language (Ikinyarwanda)
 
 ## Installation
 
