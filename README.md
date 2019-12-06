@@ -35,7 +35,9 @@ rwafaker.fullName(); // 'Kampayana Schrom'
 rwafaker.email(); // 'kampayana_sch@ur.ac.rw'
 ```
 
-### Multiple outputs (array)
+### Multiple outputs (array) - max(100)
+
+Above 100, a generator will return error
 
 ```js
 // Person
